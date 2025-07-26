@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Erkek Basic Tişört",
+    "price": 0,
+    "image": "https://github.com/ErenArkun/Aysoy_Tekstil_DB/raw/main/men_clothes/img/men_1.jpg?raw=true",
+    "description": "%100 Pamuk, rahat kesim"
+  },
+  {
+    "id": 2,
+    "title": "Slim Fit Gömlek",
+    "price": 0,
+    "image": "https://github.com/ErenArkun/Aysoy_Tekstil_DB/raw/main/men_clothes/img/men_2.jpg?raw=true",
+    "description": "Ofis ve günlük kullanım"
+  },
+  {
+    "id": 3,
+    "title": "Kot Pantolon",
+    "price": 0,
+    "image": "https://github.com/ErenArkun/Aysoy_Tekstil_DB/raw/main/men_clothes/img/men_3.jpg?raw=true",
+    "description": "Esnek kot kumaş"
+  }
+]
